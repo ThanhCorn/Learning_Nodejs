@@ -6,3 +6,9 @@
 20230211	23:39:34	5a32bcf7-2d2d-469d-bf24-713f2260815d	/data/data.json	GET
 20230211	23:39:39	5ea0c85d-9dd6-47da-ac8e-b1306343bfae	/old	GET
 20230211	23:39:39	f85b1443-5e8c-430e-888f-d40b296cfe96	/css/style.css	GET
+20230212	11:25:34	4742b2e1-ff6a-4834-85ed-d7cafaa4bd1b	/	GET
+20230212	11:25:34	44a52b4b-95ec-4764-b749-5d3ba419687e	/css/style.css	GET
+20230212	11:25:36	b9a2ebd3-733d-4774-be99-b43eae710778	/favicon.ico	GET
+20230212	11:25:39	00b81ba3-e71f-4648-8c8c-81da631ae991	/data/data.json	GET
+20230212	12:17:09	862ce1ac-dbd0-49b9-b199-968162d8cffa	GET	undefined	/
+20230212	12:17:09	d12cbf48-920c-4677-84c9-b4fb3f1a05ed	GET	undefined	/css/style.css
